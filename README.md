@@ -1,0 +1,2 @@
+# Positive-Mind
+php openshift
